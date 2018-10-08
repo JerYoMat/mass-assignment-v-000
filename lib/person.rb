@@ -1,7 +1,5 @@
 class Person
   #your code here
   
-  def initialize()
-     
-  end 
+ attr_accessor 
 end
